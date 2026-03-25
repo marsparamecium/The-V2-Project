@@ -1,6 +1,9 @@
 # ARK-09B Sovereign Engine (v2.0)
 > **"Today you are one step closer to the destination, and one step further from the pathologically constrained environment."**
 
+Hardware_Report.json:{"chassis_weight": "35kg", "oxygen_flow": "78%-85%", "environmental_noise": "High_Dying_TikToks"}
+
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Target: Atlantic 2028](https://img.shields.io/badge/Trajectory-Atlantic_2028-blue.svg)](#)
 
